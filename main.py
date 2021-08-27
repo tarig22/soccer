@@ -1,5 +1,5 @@
 
-import requests
+# import requests
 
 def getData():
 #     url = requests.get("https://www.as-goal.com/m/").text
